@@ -87,3 +87,4 @@ Do realizacji założeń projektu w Oracle zastosowano mechanizmy tablic zagnie�
 - **Naliczanie dodatkowych opłat:** Pracownik może naliczyć dodatkowe opłaty w przypadku uszkodzenia sprzętu lub innych sytuacji wymagających kosztów.
 
 ## Diagram bazy danych
+![image](https://github.com/user-attachments/assets/c25e49fa-f6db-489f-be5a-f24455ba3e43)
